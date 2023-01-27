@@ -1,0 +1,2 @@
+It took 5.600000000161032e-06s to execute find_factorial.
+It took 5.999999999062311e-06s to execute find_factorial.
